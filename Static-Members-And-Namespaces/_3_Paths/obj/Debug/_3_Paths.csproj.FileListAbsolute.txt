@@ -1,0 +1,20 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\bin\Debug\_3_Paths.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\bin\Debug\_3_Paths.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\bin\Debug\_3_Paths.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\bin\Debug\02.DistanceCalculator.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\bin\Debug\Point3D.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\bin\Debug\02.DistanceCalculator.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\bin\Debug\Point3D.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\obj\Debug\_3_Paths.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\obj\Debug\_3_Paths.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\_3_Paths\obj\Debug\_3_Paths.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\bin\Debug\_3_Paths.exe.config
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\bin\Debug\_3_Paths.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\bin\Debug\_3_Paths.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\bin\Debug\02.DistanceCalculator.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\bin\Debug\Point3D.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\bin\Debug\02.DistanceCalculator.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\bin\Debug\Point3D.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\obj\Debug\_3_Paths.csprojResolveAssemblyReference.cache
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\obj\Debug\_3_Paths.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\_3_Paths\obj\Debug\_3_Paths.pdb

@@ -1,0 +1,12 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\Point3D\bin\Debug\Point3D.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\Point3D\obj\Debug\Point3D.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\Point3D\obj\Debug\Point3D.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\Point3D\bin\Debug\Point3D.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\Point3D\bin\Debug\Point3D.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\Point3D\obj\Debug\_01_Point3D.csprojResolveAssemblyReference.cache
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Point3D\bin\Debug\Point3D.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Point3D\bin\Debug\Point3D.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Point3D\obj\Debug\_01_Point3D.csprojResolveAssemblyReference.cache
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Point3D\obj\Debug\Point3D.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Point3D\obj\Debug\Point3D.pdb

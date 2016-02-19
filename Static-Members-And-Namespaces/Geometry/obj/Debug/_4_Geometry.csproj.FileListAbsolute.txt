@@ -1,0 +1,6 @@
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Geometry\bin\Debug\Geometry.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Geometry\bin\Debug\Geometry.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Geometry\obj\Debug\_4_Geometry.csprojResolveAssemblyReference.cache
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Geometry\obj\Debug\Geometry.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\Geometry\obj\Debug\Geometry.pdb

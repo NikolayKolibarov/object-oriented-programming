@@ -1,0 +1,8 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\GalacticGPS\bin\Debug\GalacticGPS.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\GalacticGPS\bin\Debug\GalacticGPS.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\GalacticGPS\obj\Debug\GalacticGPS.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\GalacticGPS\obj\Debug\GalacticGPS.pdb
+C:\Users\NikolayNK\Documents\Nik\Documents\Visual Studio 2013\Projects\Other-Types-In-OOP\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+C:\Users\NikolayNK\Documents\Nik\Documents\Visual Studio 2013\Projects\Other-Types-In-OOP\GalacticGPS\obj\Debug\GalacticGPS.exe
+C:\Users\NikolayNK\Documents\Nik\Documents\Visual Studio 2013\Projects\Other-Types-In-OOP\GalacticGPS\obj\Debug\GalacticGPS.pdb

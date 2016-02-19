@@ -1,0 +1,6 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\ExceptionHandlingHomework\_1_SquareRoot\bin\Debug\_1_SquareRoot.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\ExceptionHandlingHomework\_1_SquareRoot\bin\Debug\_1_SquareRoot.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\ExceptionHandlingHomework\_1_SquareRoot\bin\Debug\_1_SquareRoot.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\ExceptionHandlingHomework\_1_SquareRoot\obj\Debug\_1_SquareRoot.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\ExceptionHandlingHomework\_1_SquareRoot\obj\Debug\_1_SquareRoot.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\ExceptionHandlingHomework\_1_SquareRoot\obj\Debug\_1_SquareRoot.pdb

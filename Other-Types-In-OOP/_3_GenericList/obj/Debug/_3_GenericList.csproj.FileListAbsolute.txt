@@ -1,0 +1,6 @@
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\_3_GenericList\bin\Debug\_3_GenericList.exe.config
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\_3_GenericList\bin\Debug\_3_GenericList.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\_3_GenericList\bin\Debug\_3_GenericList.pdb
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\_3_GenericList\obj\Debug\_3_GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\_3_GenericList\obj\Debug\_3_GenericList.exe
+C:\Users\Nikolay\documents\visual studio 2013\Projects\Other-Types-In-OOP\_3_GenericList\obj\Debug\_3_GenericList.pdb

@@ -1,0 +1,16 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\Point3D.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\Point3D.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\_02_DistanceCalculator.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\02.DistanceCalculator\bin\Debug\Point3D.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\02.DistanceCalculator\bin\Debug\Point3D.pdb
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\02.DistanceCalculator\obj\Debug\_02_DistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
+C:\Users\NikolayNK\Downloads\C# OOP\Static-Members-And-Namespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb

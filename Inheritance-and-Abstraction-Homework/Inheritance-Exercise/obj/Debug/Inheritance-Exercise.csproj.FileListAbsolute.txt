@@ -1,0 +1,6 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\Inheritance-and-Abstraction-Homework\Inheritance-Exercise\bin\Debug\Inheritance-Exercise.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Inheritance-and-Abstraction-Homework\Inheritance-Exercise\bin\Debug\Inheritance-Exercise.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Inheritance-and-Abstraction-Homework\Inheritance-Exercise\bin\Debug\Inheritance-Exercise.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Inheritance-and-Abstraction-Homework\Inheritance-Exercise\obj\Debug\Inheritance-Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Inheritance-and-Abstraction-Homework\Inheritance-Exercise\obj\Debug\Inheritance-Exercise.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\Inheritance-and-Abstraction-Homework\Inheritance-Exercise\obj\Debug\Inheritance-Exercise.pdb
